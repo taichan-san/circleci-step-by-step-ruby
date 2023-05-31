@@ -12,4 +12,4 @@ jobs:
 workflows:
   build:
     jobs:
-    - first-job
+    - first-job 
